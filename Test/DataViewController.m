@@ -12,6 +12,7 @@
 
 @synthesize dataLabel = _dataLabel;
 @synthesize dataObject = _dataObject;
+@synthesize s;
 
 - (void)didReceiveMemoryWarning
 {
